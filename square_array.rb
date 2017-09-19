@@ -1,3 +1,4 @@
-def square_array(numbers)
-  square_array.each do {|numbers| numbers**2}
+def square_array(array)
+  arrayy= []
+  array.each {|i| i ** 2}
 end
